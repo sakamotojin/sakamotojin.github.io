@@ -1,25 +1,40 @@
-# Initial page
+### description
 
-## Getting Super Powers
+A simple Portfolio template for developer/designers built with React. 
 
-Becoming a super hero is a fairly straight forward process:
+### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
-```
-$ give me super-powers
-```
+![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
+### Features
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+- Fully Responsive
+- Multi-Page Layout
+- Contact Form With EmailJs
+- React-Bootstrap
+- Edit Content From One Place
 
+
+
+### Setup
+
+Get the code.
+
+ <pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+ 
+Install required dependencies
+
+<pre>yarn install</pre>
+
+modify pages content in  `src/content_option.js`.
+
+statrt the server
+
+<pre>yarn start</pre>
+
+### Thanks
+If you like this portfolio template don't forget give it a ⭐ 
+ 
 
 
