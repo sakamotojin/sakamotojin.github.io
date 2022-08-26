@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "Hello World!",
         second: "I turn coffee into code ",
-        third: "I develop  ackend applications",
+        third: "And sometimes code for coffee",
     },
     description: "Modeling the World Around Us With Equations And Code",
     your_img_url: "https://raw.githubusercontent.com/sakamotojin/sakamotojin.github.io/new_website/src/assets/images/sumit.jpg",
