@@ -7,17 +7,17 @@ const meta = {
 const introdata = {
     title: "I'm Sumit Joshi",
     animated: {
-        first: "Hello world",
+        first: "Hello World!",
         second: "I turn coffee into code ",
-        third: "I develop mobile apps",
+        third: "I develop  ackend applications",
     },
     description: "Modeling the World Around Us With Equations And Code",
     your_img_url: "https://raw.githubusercontent.com/sakamotojin/sakamotojin.github.io/new_website/src/assets/images/sumit.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A Bit About Me",
+    aboutme: "Curios Homosapeian , Old Soul ",
 };
 const worktimeline = [
     {
@@ -60,14 +60,6 @@ const skills = [{
     },
     {
         name: "Spring Boot & DropWizard",
-        value: 85,
-    },
-    {
-        name: "Jquery",
-        value: 85,
-    },
-    {
-        name: "Jquery",
         value: 85,
     }
 ];
