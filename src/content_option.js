@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop mobile apps",
     },
     description: "Modeling the World Around Us With Equations And Code",
-    your_img_url: "https://sakamotojin.github.io/src/assets/images/sumit.jpg",
+    your_img_url: "https://raw.githubusercontent.com/sakamotojin/sakamotojin.github.io/new_website/src/assets/images/sumit.jpg",
 };
 
 const dataabout = {
